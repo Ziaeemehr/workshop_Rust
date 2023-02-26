@@ -1,0 +1,10 @@
+# gitignore for Rust projects
+
+# add some common files to ignore
+Cargo.lock
+target/
+.git/
+
+*.txt
+.gitignore
+.vscode/
